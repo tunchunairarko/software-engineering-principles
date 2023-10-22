@@ -103,7 +103,7 @@ SOLID is a popular set of design principles that are used in object-oriented sof
 
 
 
-## References
+
 [^1]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
 [^2]: https://www.interaction-design.org/literature/topics/keep-it-simple-stupid#:~:text=Keep%20it%20simple%2C%20stupid%20(KISS)%20is%20a%20design%20principle,of%20user%20acceptance%20and%20interaction
 [^3]: https://www.bmc.com/blogs/solid-design-principles/#:~:text=SOLID%20is%20an%20acronym%20that,some%20important%20benefits%20for%20developers
