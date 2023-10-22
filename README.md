@@ -34,7 +34,7 @@ The DRY principle is all about avoiding redundancy in your code. Imagine if you 
 ### 2. KISS (Keep It Simple, Stupid)
 
 **Explanation:** 
-Keep it simple, stupid (KISS) is a design principle which states that designs and/or systems should be as simple as possible. Wherever possible, complexity should be avoided in a system—as simplicity guarantees the greatest levels of user acceptance and interaction. KISS is used in a variety of disciplines, such as interface design, product design, and software development [[2]]. KISS is a reminder that most systems work best if they are kept simple rather than made complex. Complexity can introduce errors and make the system harder to understand and maintain. By striving for simplicity, you make your code more readable and easier to debug.
+Keep it simple, stupid (KISS) is a design principle which states that designs and/or systems should be as simple as possible. Wherever possible, complexity should be avoided in a system—as simplicity guarantees the greatest levels of user acceptance and interaction. KISS is used in a variety of disciplines, such as interface design, product design, and software development [[^2]]. KISS is a reminder that most systems work best if they are kept simple rather than made complex. Complexity can introduce errors and make the system harder to understand and maintain. By striving for simplicity, you make your code more readable and easier to debug.
 
 **React & TypeScript Examples:**
 
@@ -60,7 +60,7 @@ Keep it simple, stupid (KISS) is a design principle which states that designs an
 ### 3. SOLID
 
 **Explanation:** 
-SOLID is a popular set of design principles that are used in object-oriented software development. SOLID is an acronym that stands for five key design principles: single responsibility principle, open-closed principle, Liskov substitution principle, interface segregation principle, and dependency inversion principle. All five are commonly used by software engineers and provide some important benefits for developers [[3]]. SOLID is a set of five design principles that guide developers in creating maintainable and scalable systems. Let's break them down:
+SOLID is a popular set of design principles that are used in object-oriented software development. SOLID is an acronym that stands for five key design principles: single responsibility principle, open-closed principle, Liskov substitution principle, interface segregation principle, and dependency inversion principle. All five are commonly used by software engineers and provide some important benefits for developers [[^3]]. SOLID is a set of five design principles that guide developers in creating maintainable and scalable systems. Let's break them down:
 
 - **S - Single Responsibility Principle (SRP):** A class or component should have only one reason to change. This means it should only have one job or responsibility.
 
@@ -105,5 +105,5 @@ SOLID is a popular set of design principles that are used in object-oriented sof
 
 ## References
 [^1]: https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
-[2]: https://www.interaction-design.org/literature/topics/keep-it-simple-stupid#:~:text=Keep%20it%20simple%2C%20stupid%20(KISS)%20is%20a%20design%20principle,of%20user%20acceptance%20and%20interaction
-[3]: https://www.bmc.com/blogs/solid-design-principles/#:~:text=SOLID%20is%20an%20acronym%20that,some%20important%20benefits%20for%20developers
+[^2]: https://www.interaction-design.org/literature/topics/keep-it-simple-stupid#:~:text=Keep%20it%20simple%2C%20stupid%20(KISS)%20is%20a%20design%20principle,of%20user%20acceptance%20and%20interaction
+[^3]: https://www.bmc.com/blogs/solid-design-principles/#:~:text=SOLID%20is%20an%20acronym%20that,some%20important%20benefits%20for%20developers
