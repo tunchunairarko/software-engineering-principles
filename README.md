@@ -5,7 +5,7 @@
 ### 1. DRY (Don't Repeat Yourself)
 
 **Explanation:** 
-"Don't repeat yourself" (DRY) is a principle of software development aimed at reducing repetition of information which is likely to change, replacing it with abstractions that are less likely to change, or using data normalization which avoids redundancy in the first place.[Wikipedia][1]
+"Don't repeat yourself" (DRY) is a principle of software development aimed at reducing repetition of information which is likely to change, replacing it with abstractions that are less likely to change, or using data normalization which avoids redundancy in the first place [1].
 The DRY principle is all about avoiding redundancy in your code. Imagine if you had to change something that's repeated in 10 places in your code. You'd have to remember all those places and make sure you change each one correctly. By following DRY, you centralize the code so that any changes only need to be made in one place. This makes your code more maintainable and less error-prone.
 
 **React & TypeScript Examples:**
@@ -34,7 +34,7 @@ The DRY principle is all about avoiding redundancy in your code. Imagine if you 
 ### 2. KISS (Keep It Simple, Stupid)
 
 **Explanation:** 
-Keep it simple, stupid (KISS) is a design principle which states that designs and/or systems should be as simple as possible. Wherever possible, complexity should be avoided in a system—as simplicity guarantees the greatest levels of user acceptance and interaction. KISS is used in a variety of disciplines, such as interface design, product design, and software development[interaction-design.org][1]. KISS is a reminder that most systems work best if they are kept simple rather than made complex. Complexity can introduce errors and make the system harder to understand and maintain. By striving for simplicity, you make your code more readable and easier to debug.
+Keep it simple, stupid (KISS) is a design principle which states that designs and/or systems should be as simple as possible. Wherever possible, complexity should be avoided in a system—as simplicity guarantees the greatest levels of user acceptance and interaction. KISS is used in a variety of disciplines, such as interface design, product design, and software development [1]. KISS is a reminder that most systems work best if they are kept simple rather than made complex. Complexity can introduce errors and make the system harder to understand and maintain. By striving for simplicity, you make your code more readable and easier to debug.
 
 **React & TypeScript Examples:**
 
@@ -60,7 +60,7 @@ Keep it simple, stupid (KISS) is a design principle which states that designs an
 ### 3. SOLID
 
 **Explanation:** 
-SOLID is a popular set of design principles that are used in object-oriented software development. SOLID is an acronym that stands for five key design principles: single responsibility principle, open-closed principle, Liskov substitution principle, interface segregation principle, and dependency inversion principle. All five are commonly used by software engineers and provide some important benefits for developers [bmc.com][3]. SOLID is a set of five design principles that guide developers in creating maintainable and scalable systems. Let's break them down:
+SOLID is a popular set of design principles that are used in object-oriented software development. SOLID is an acronym that stands for five key design principles: single responsibility principle, open-closed principle, Liskov substitution principle, interface segregation principle, and dependency inversion principle. All five are commonly used by software engineers and provide some important benefits for developers [3]. SOLID is a set of five design principles that guide developers in creating maintainable and scalable systems. Let's break them down:
 
 - **S - Single Responsibility Principle (SRP):** A class or component should have only one reason to change. This means it should only have one job or responsibility.
 
