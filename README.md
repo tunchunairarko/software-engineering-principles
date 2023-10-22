@@ -1,4 +1,4 @@
-# software-engineering-principles
+# 3 core software engineering principles
 
 
 
